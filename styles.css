@@ -45,7 +45,6 @@ main {
     transition-property: all;
     transition-timing-function: ease-in-out;
     transition-delay: 0s;
-    animation: backwards;
 }
 .container-boba-image-and-items {
     width: 40vw;
